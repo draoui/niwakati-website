@@ -139,15 +139,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-start space-x-3">
                 <MapPin size={20} className="text-primary mt-1 flex-shrink-0" />
-                <span className="text-muted-foreground">123 Diversity Street, Brussels, Belgium</span>
+                <span className="text-muted-foreground">Place de l'église 15, 4130 Esneux, Belgium</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone size={20} className="text-primary flex-shrink-0" />
-                <span className="text-muted-foreground">+32 123 456 789</span>
+                <span className="text-muted-foreground">+32 476 28 98 17</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={20} className="text-primary flex-shrink-0" />
-                <span className="text-muted-foreground">info@niwakati.org</span>
+                <span className="text-muted-foreground">info@ni-wakati.be</span>
               </div>
             </div>
           </motion.div>

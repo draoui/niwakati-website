@@ -130,8 +130,8 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-2">Our Location</h3>
                     <p className="text-muted-foreground">
-                      123 Diversity Street<br />
-                      1000 Brussels<br />
+                      Place de l'église 15<br />
+                      4130 Esneux<br />
                       Belgium
                     </p>
                   </div>
@@ -144,7 +144,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-2">Phone</h3>
                     <p className="text-muted-foreground">
-                      +32 123 456 789
+                      +32 476 28 98 17
                     </p>
                   </div>
                 </div>
@@ -156,7 +156,7 @@ const ContactPage = () => {
                   <div>
                     <h3 className="text-xl font-bold mb-2">Email</h3>
                     <p className="text-muted-foreground">
-                      info@niwakati.org
+                      info@ni-wakati.be
                     </p>
                   </div>
                 </div>
@@ -348,7 +348,7 @@ const ContactPage = () => {
           <h2 className="text-3xl font-bold mb-8">Find Us</h2>
           <div className="bg-card rounded-lg overflow-hidden shadow-md h-[400px]">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d80600.40500264225!2d4.3053363!3d50.8550625!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c3c486740f9fff%3A0x10099ab2f4c8030!2sBrussels%2C%20Belgium!5e0!3m2!1sen!2sus!4v1652345678901!5m2!1sen!2sus"
+              src="https://www.google.com/maps?q=Place+de+l'%C3%A9glise+15,+4130+Esneux,+Belgium&output=embed"
               width="100%"
               height="100%"
               style={{ border: 0 }}

@@ -10,31 +10,52 @@ import { Users, Heart, Award, Globe, Target, Sparkles } from "lucide-react";
 const teamMembers = [
   {
     id: "1",
-    name: "Marie Dupont",
-    role: "Founder & Executive Director",
-    bio: "Marie founded Ni Wakati ASBL with a vision to create a more inclusive society. With over 15 years of experience in community development, she leads the organization with passion and dedication.",
-    imageUrl: "https://i.pinimg.com/originals/ab/c7/43/abc743c2c621cb756e83875f18c3765f.jpg"
+    name: "Benoît Bodart",
+    role: "Fondateur et président",
+    bio: "Fondateur de l'association et président, Benoît guide Ni Wakati ASBL avec passion et engagement.",
+    imageUrl: "/team/benoit-bodart.jpg"
   },
   {
     id: "2",
-    name: "Jean Mbeki",
-    role: "Program Director",
-    bio: "Jean oversees all of Ni Wakati's programs and initiatives. His background in social work and community organizing helps ensure our programs create meaningful impact.",
-    imageUrl: "https://i.pinimg.com/originals/74/fc/5f/74fc5f9c73880ff75b301babec974cf4.jpg"
+    name: "Maud Laurent",
+    role: "Fondatrice et trésorière",
+    bio: "Co-fondatrice et trésorière, Maud veille à la bonne gestion des ressources de l'association.",
+    imageUrl: "/team/maud-laurent.jpg"
   },
   {
     id: "3",
-    name: "Sophie Nguyen",
-    role: "Community Outreach Coordinator",
-    bio: "Sophie builds and maintains relationships with community partners and volunteers. Her communication skills and community connections are invaluable to our work.",
-    imageUrl: "https://thumbs.dreamstime.com/b/professional-asian-business-woman-standing-confidently-smiling-office-257396589.jpg"
+    name: "François Magain",
+    role: "Administrateur, secrétaire",
+    bio: "François assure le secrétariat et l'administration de Ni Wakati ASBL.",
+    imageUrl: "/team/francois-magain.jpg"
   },
   {
     id: "4",
-    name: "Ahmed Hassan",
-    role: "Education Specialist",
-    bio: "Ahmed develops and implements educational programs that promote cultural understanding and diversity. His background in education brings expertise to our workshops.",
-    imageUrl: "https://i.pinimg.com/originals/82/3b/09/823b0995ee3e412158d72d9f58c28d41.jpg"
+    name: "Fabienne Zutterman",
+    role: "Coordinatrice du projet Humanly Together - croisons nos chemins",
+    bio: "Fabienne coordonne le projet Humanly Together - croisons nos chemins.",
+    imageUrl: "/team/fabienne-zutterman.jpg"
+  },
+  {
+    id: "5",
+    name: "Anara Kurbanova",
+    role: "Bénévole, cheffe de projet 'Esneux en fête'",
+    bio: "Anara est bénévole et cheffe de projet 'Esneux en fête'. Plus d'infos : https://humanlytogether.org",
+    imageUrl: "/team/anara-kurbanova.jpg"
+  },
+  {
+    id: "6",
+    name: "Jacqueline Demarteau",
+    role: "Bénévole",
+    bio: "Jacqueline apporte son aide précieuse en tant que bénévole.",
+    imageUrl: "/team/jacqueline-demarteau.jpg"
+  },
+  {
+    id: "7",
+    name: "Lucie Laurant",
+    role: "Bénévole, en charge de développement au Vicinal, Comblain au pont",
+    bio: "Lucie est bénévole et responsable du développement au Vicinal, Comblain au pont.",
+    imageUrl: "/team/lucie-laurant.jpg"
   }
 ];
 
